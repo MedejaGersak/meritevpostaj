@@ -1,2 +1,6 @@
 # meritevpostaj
-Modul vremenskapostaja za predmet porazdeljeni sistemi
+
+Modul maritevpostaj hrani temperaturne meritve dodanih postaj.
+
+
+
